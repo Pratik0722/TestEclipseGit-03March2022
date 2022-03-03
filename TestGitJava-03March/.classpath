@@ -2,5 +2,15 @@
 <classpath>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/pdingari/OneDrive - Capgemini/Documents/selenium/Cucumber_Jar_Jul2018/cucumber-core-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pdingari/OneDrive - Capgemini/Documents/selenium/Cucumber_Jar_Jul2018/cucumber-expressions-5.0.19.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pdingari/OneDrive - Capgemini/Documents/selenium/Cucumber_Jar_Jul2018/cucumber-html-0.2.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pdingari/OneDrive - Capgemini/Documents/selenium/Cucumber_Jar_Jul2018/cucumber-java-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pdingari/OneDrive - Capgemini/Documents/selenium/Cucumber_Jar_Jul2018/cucumber-junit-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pdingari/OneDrive - Capgemini/Documents/selenium/Cucumber_Jar_Jul2018/datatable-1.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pdingari/OneDrive - Capgemini/Documents/selenium/Cucumber_Jar_Jul2018/datatable-dependencies-1.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pdingari/OneDrive - Capgemini/Documents/selenium/Cucumber_Jar_Jul2018/gherkin-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pdingari/OneDrive - Capgemini/Documents/selenium/Cucumber_Jar_Jul2018/tag-expressions-1.1.1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
